@@ -1,0 +1,31 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "title": "Front-End",
+      "description": "Proficient in HTML, CSS, JavaScript (React.js)"
+    },
+    {
+      "id": "2",
+      "title": "Back-End",
+      "description": "Proficient in Python and SQL. Knowledge about REST APIs "
+    },
+    {
+      "id": "3",
+      "title": "Data Science",
+      "description": "Proficient in Python. Coursework in algorithms, data structures, statistics, and data visualization "
+    },
+    {
+      "id": "4",
+      "title": "Other Skills",
+      "description": "Knowledge of Microsoft Office, project planning & scheduling, technical troubleshooting, team collaboration, excellent communication skills"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "title": "Coming Soon"
+    }
+
+  ]
+}
