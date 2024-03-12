@@ -1,4 +1,4 @@
-export default function AboutMe() {
+function AboutMe() {
   return (
     <section id="AboutMe" className="about--section">
       <div className="about--section--img">
@@ -16,3 +16,5 @@ export default function AboutMe() {
     </section>
   );
 }
+
+export default AboutMe;

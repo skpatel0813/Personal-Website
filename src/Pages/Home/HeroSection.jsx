@@ -1,4 +1,4 @@
-export default function HeroSection() {
+function HeroSection() {
   return (
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
@@ -17,3 +17,5 @@ export default function HeroSection() {
     </section>
   );
 }
+
+export default HeroSection;
